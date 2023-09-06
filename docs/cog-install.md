@@ -1,4 +1,4 @@
-# Install
+## Install
 
 ### Step 1: Download
 
@@ -29,6 +29,6 @@ python3 -m main
 ```
 
 
-# Support
+## Support
 
 Work in progress. [Join the Discord >](https://coffeebank.github.io/discord)
