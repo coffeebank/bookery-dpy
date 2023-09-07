@@ -1,24 +1,20 @@
-# coffee-dpy ☕
+---
+title: "bookery"
+description: "Search books and find more about a book. Results from Google Books API."
+---
 
-## 📦 A drop-in Discord.py wrapper for Red-DiscordBot cogs.
+# bookery
 
-Coffee-dpy lets you run cogs built for [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot/) independently with only [Discord.py](https://github.com/Rapptz/discord.py).
+<component-coghero cog="bookery" desc="Search books and find more about a book. Results from Google Books API."></component-coghero>
 
-This wrapper aims to be a simple, lightweight, and portable way to package and redistribute Red cogs easily for use, with minimal changes to Red cogs when possible.
+A Red Discord bot cog for searching books in Discord.
+<br />
 
-Discord intents are not required by default.
+## Install
 
+### Step 1: Download
 
-## Alpha Release
-
-This project is still in alpha stage development, and may not work with all cogs. Contributions are welcome.
-
-
-## Usage
-
-### Step 1: Add your cogs
-
-Clone this project. Then, create a new `cogs` folder and place your Red cogs inside.
+Clone or download this project.
 
 ### Step 2: Add your Discord Bot info
 
@@ -28,7 +24,7 @@ Make an `.env` file, and:
 
 The bot prefix is @ping or Slash command.
 
-### Step 3: Run your Bot
+### Step 3: Run the Bot
 
 Setup a [venv](https://docs.python.org/3/library/venv.html) using Python >=3.9 and install requirements
 
@@ -43,3 +39,8 @@ In the future, you can run your bot anytime using
 source ~/dpyenv/bin/activate
 python3 -m main
 ```
+
+
+## Support
+
+[Join the Discord >](https://coffeebank.github.io/discord)
